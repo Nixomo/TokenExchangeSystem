@@ -1,6 +1,6 @@
 # Token Exchange System
 ## About
-This project was made for the subject of *High Dependability Systems*. It is part of the  Major in Cybersecurity of the Master's.
+This project was made for the subject of *High Dependability Systems*. It is part of the  Major in Cybersecurity of the Master in Computer Science and Engineering @IST.
 In this project me and my group implemented a simplified version (no round changes) of the Instanbul-BFT Consensus Algorithm Protocol, which is known in the blockchain community as QBFT.
 
 1. The Token Exchange System holds a set of accounts.
